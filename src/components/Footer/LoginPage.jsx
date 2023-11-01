@@ -27,7 +27,7 @@ function LoginPage() {
     }
   };
 
-  const backgroundImageUrl = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrj9G-hXheqORf6qXhS00X80MPqpW2TY7Q7A&usqp=CAU'; // Replace with the actual image URL
+  const backgroundImageUrl = 'https://cdn.create.vista.com/api/media/small/346348640/stock-photo-top-view-chocolate-eggs-sweets-beige-background'; // Replace with the actual image URL
 
   return (
     <div className='log' style={{
