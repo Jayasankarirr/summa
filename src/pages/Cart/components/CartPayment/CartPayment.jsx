@@ -87,7 +87,7 @@ const CartPayment = () => {
                     type="submit">Payment</button></center></Link></div>
                                     </div>
                                     </div>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
