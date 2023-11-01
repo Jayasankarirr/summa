@@ -27,7 +27,7 @@ function LoginPage() {
     }
   };
 
-  const backgroundImageUrl = 'https://i.pinimg.com/736x/05/06/c1/0506c1ee912240618130f0b74ec6d7e2.jpg'; // Replace with the actual image URL
+  const backgroundImageUrl = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrj9G-hXheqORf6qXhS00X80MPqpW2TY7Q7A&usqp=CAU'; // Replace with the actual image URL
 
   return (
     <div className='log' style={{
