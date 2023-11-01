@@ -108,9 +108,9 @@ function LoginPage() {
       return;
     }
 
-    // Replace this hardcoded password check with your secure authentication method
-    if (password === 'subhi') {
-      // For demo purposes, the password 'subhi' grants access
+    // Change the password check to '123' for login success
+    if (password === '123') {
+      // For demo purposes, the password '123' grants access
       localStorage.setItem('token', 'yourGeneratedTokenHere');
       alert('Login Successful');
       navigate('/');
@@ -170,3 +170,4 @@ function LoginPage() {
 }
 
 export default LoginPage;
+
